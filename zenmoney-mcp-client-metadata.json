@@ -1,7 +1,7 @@
 {
   "client_name": "OpenClaw Diego (aronsx)",
-  "client_uri": "https://github.com/aronsx/mcp-client-metadata",
-  "redirect_uris": ["https://github.com/aronsx/mcp-client-metadata"],
+  "client_uri": "https://aronsx.github.io/mcp-client-metadata/",
+  "redirect_uris": ["https://aronsx.github.io/mcp-client-metadata/"],
   "token_endpoint_auth_method": "none",
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
